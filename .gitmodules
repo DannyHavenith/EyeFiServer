@@ -1,0 +1,3 @@
+[submodule "GeoTagger"]
+	path = GeoTagger
+	url = git://github.com/DannyHavenith/EyeFiGeotagger.git
